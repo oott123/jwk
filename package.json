@@ -1,6 +1,6 @@
 {
   "name": "jwk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "awk in js",
   "main": "jwk.js",
   "repository": "git@github.com:oott123/jwk.git",
